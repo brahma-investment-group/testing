@@ -1,3 +1,5 @@
+Trading
+==========================
 This is the beginning of the documentation!
 
 one asterisk: *text* for emphasis (italics),
@@ -10,4 +12,4 @@ new version --- version 2
 
 version 3
 
-.. autofunction:: test.get_stock_contract
+.. autofunction:: pack1.test.get_stock_contract
