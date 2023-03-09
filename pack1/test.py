@@ -11,3 +11,5 @@ def get_stock_contract(api_key: str, use_async: bool = False, connect_timeout: i
                             wait for a connection to be established. Raises a ``ConnectTimeout`` if unable to
                             connect within specified time limit.                         
     """
+
+    pass

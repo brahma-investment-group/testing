@@ -5,12 +5,14 @@
 
 Welcome to testing's documentation!
 ===================================
+Testing!!!
 
 .. toctree::
    :maxdepth: 2
+   :hidden:
    :caption: Contents:
    
-   test
+   trading
 
 
 
