@@ -9,3 +9,5 @@ backquotes: ``text`` for code samples.
 new version --- version 2
 
 version 3
+
+.. autofunction:: test.get_stock_contract
